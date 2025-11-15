@@ -16,9 +16,26 @@ Location: Kathmandu, Nepal | Availability: Remote, Onsite, or Hybrid roles
 
 Technical Skills
 Data Analytics & BI Tools
-<p align="left"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" height="40" alt="Power BI"/> <img src="https://www.svgrepo.com/show/354200/tableau.svg" width="40" height="40" alt="Tableau"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQL"/> </p>
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" height="40" alt="Power BI"/> <img src="https://www.svgrepo.com/show/354200/tableau.svg" width="40" height="40" alt="Tableau"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/> </p>
+
+Power BI – Data modeling, DAX, interactive dashboards, custom visuals
+
+Tableau – Storytelling dashboards and visual analytics
+
+SQL Databases – MySQL, SQLite (joins, subqueries, CTEs, window functions)
+
+Excel (Advanced) – Pivot tables, Power Query, formulas, interactive reporting
+
 Programming & Data Manipulation
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/> </p>
+
+Python for Analytics – Data cleaning, transformation, automation
+
+Pandas – DataFrames, grouping, merging, handling missing values
+
+NumPy – Numerical operations and vectorized calculations
+
+Matplotlib/Seaborn – Data visualization and EDA charts
 Additional Skills
 
 Data Cleaning & Transformation
