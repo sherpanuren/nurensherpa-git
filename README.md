@@ -1,6 +1,4 @@
-Hi 👋, I'm Nuren Sherpa  
-**Business & Data Analyst | BI Enthusiast | Dashboard Developer**  
-📍 Kathmandu, Nepal | 🏳️ Remote | Onsite | Hybrid
+Hi 👋, I'm Nuren Sherpa  **Business & Data Analyst | BI Enthusiast | Dashboard Developer**  📍 Kathmandu, Nepal | 🏳️ Remote | Onsite | Hybrid
 
 <div align="center">  
   <img alt="Data Analytics GIF" width="400" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">  
@@ -26,13 +24,6 @@ My goal is to help organizations make **data-driven decisions** by building **in
 ## 🛠️ Technical Skills
 
 ### 📊 **Data Analytics & BI Tools**
-<p align="left">  
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" height="40" alt="Power BI"/>  
-  <img src="https://www.svgrepo.com/show/354200/tableau.svg" width="40" height="40" alt="Tableau"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Microsoft_Office_Excel_%282019–present%29.svg" width="40" height="40" alt="Excel"/>  
-</p>
-
 - **Power BI** – Data modeling, DAX, interactive dashboards, custom visuals  
 - **Tableau** – Dashboard storytelling, trend visualization  
 - **SQL** – MySQL, SQLite (CTEs, joins, window functions, aggregation)  
@@ -64,11 +55,11 @@ My goal is to help organizations make **data-driven decisions** by building **in
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| 🏥 **[Health Data Analytics Dashboard](https://github.com/sherpanuren/health-dashboard)** | Built a Power BI dashboard for 1,500+ patients, improving clinical reporting efficiency by 40%. | Power BI, DAX, SQL |
-| 🛡️ **[Insurance Claims Risk Segmentation](https://github.com/sherpanuren/insurance-claims-analysis)** | Analyzed 368K insurance claims to identify high-risk segments, reducing potential losses by 15%. | Power BI, SQL, Risk Analytics |
-| 🗺️ **[Nepal Tourism Dashboard](https://github.com/sherpanuren/nepal-tourism-dashboard)** | Interactive dashboard visualizing tourism trends (2012–2024), arrivals, and economic impact. | Power BI, Tableau, SQL |
-| 🛒 **[Customer Behavior & Sales Analysis](https://github.com/sherpanuren/sales-analysis)** | Analyzed 5K+ transactions to uncover purchasing trends and improve cross-sell potential by 20%. | Power BI, SQL, Python |
-| 📊 **[Exploratory Data Analysis – Sales Dataset](https://github.com/sherpanuren/eda-sales)** | Comprehensive EDA using Python, Pandas, and Jupyter Notebooks for business insights. | Python, Pandas, Matplotlib |
+| 🏥 **[Health Data Analytics Dashboard](https://github.com/sherpanuren/healthcare-analytics-dashboard)** | Built a Power BI dashboard for 1,500+ patients, improving clinical reporting efficiency by 40%. | Power BI, DAX, SQL |
+| 🛡️ **[Insurance Claims Risk Segmentation](https://github.com/sherpanuren/insurance-claim-analysis-powerbi)** | Analyzed 368K insurance claims to identify high-risk segments, reducing potential losses by 15%. | Power BI, SQL, Risk Analytics |
+| 🗺️ **[Nepal Tourism Dashboard](https://github.com/sherpanuren/nepal_tourism_data_analysis)** | Interactive dashboard visualizing tourism trends (2012–2024), arrivals, and economic impact. | Power BI, Tableau, SQL |
+| 🛒 **[Customer Behavior & Sales Analysis](https://github.com/sherpanuren/customers-behavior-data-analysis-python-sql-powerbi)** | Analyzed 5K+ transactions to uncover purchasing trends and improve cross-sell potential by 20%. | Power BI, SQL, Python |
+| 📊 **[Exploratory Data Analysis – Sales Dataset](https://github.com/sherpanuren/eda-festival-sales-python)** | Comprehensive EDA using Python, Pandas, and Jupyter Notebooks for business insights. | Python, Pandas, Matplotlib |
 
 ---
 
