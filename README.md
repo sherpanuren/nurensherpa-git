@@ -1,70 +1,106 @@
-Hi 👋, I'm Nuren Sherpa
-Aspiring Data Analyst | BI Enthusiast | Nepal 🇳🇵
-<div align="center"> <img alt="Data Analytics GIF" width="400" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"> </div> <p align="left">  <img src="https://komarev.com/ghpvc/?username=sherpanuren&label=Profile%20views&color=0e75b6&style=flat" alt="sherpanuren" /> 
- </p>
-Professional Summary
+Hi 👋, I'm Nuren Sherpa  
+**Business & Data Analyst | BI Enthusiast | Dashboard Developer**  
+📍 Kathmandu, Nepal | 🏳️ Remote | Onsite | Hybrid
 
-Aiming for: Data Analyst, BI Analyst, and Data Analytics roles
+<div align="center">  
+  <img alt="Data Analytics GIF" width="400" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">  
+</div>
 
-Focus Areas: Data cleaning, ETL, dashboard development, exploratory data analysis, and actionable insights
+<p align="left">  
+  <img src="https://komarev.com/ghpvc/?username=sherpanuren&label=Profile%20views&color=0e75b6&style=flat" alt="sherpanuren" />  
+</p>
 
-Driven by turning raw data into clear visual stories and business-ready insights
+---
 
-Goal: Build impactful dashboards, automate reporting, and support data-driven decision-making in organizations
+## 👨‍💻 Professional Summary
 
-Location: Kathmandu, Nepal | Availability: Remote, Onsite, or Hybrid roles
+I am a detail-oriented **Business & Data Analyst** with hands-on experience in **data visualization, ETL, dashboard development, and business intelligence**.  
+I specialize in translating raw data into **actionable insights** using **Power BI, SQL, Python, and Excel**.  
 
-Technical Skills
-Data Analytics & BI Tools
-<p align="left"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" height="40" alt="Power BI"/> <img src="https://www.svgrepo.com/show/354200/tableau.svg" width="40" height="40" alt="Tableau"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/> </p>
+My goal is to help organizations make **data-driven decisions** by building **interactive dashboards**, automating reporting workflows, and optimizing business processes—especially within **healthcare, insurance, and tourism domains**.
 
-Power BI – Data modeling, DAX, interactive dashboards, custom visuals
+📍 **Location:** Kathmandu, Nepal | ✅ **Open to:** Remote, Onsite, or Hybrid roles
 
-Tableau – Storytelling dashboards and visual analytics
+---
 
-SQL Databases – MySQL, SQLite (joins, subqueries, CTEs, window functions)
+## 🛠️ Technical Skills
 
-Excel (Advanced) – Pivot tables, Power Query, formulas, interactive reporting
+### 📊 **Data Analytics & BI Tools**
+<p align="left">  
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" height="40" alt="Power BI"/>  
+  <img src="https://www.svgrepo.com/show/354200/tableau.svg" width="40" height="40" alt="Tableau"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Microsoft_Office_Excel_%282019–present%29.svg" width="40" height="40" alt="Excel"/>  
+</p>
 
-Programming & Data Manipulation
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/> </p>
+- **Power BI** – Data modeling, DAX, interactive dashboards, custom visuals  
+- **Tableau** – Dashboard storytelling, trend visualization  
+- **SQL** – MySQL, SQLite (CTEs, joins, window functions, aggregation)  
+- **Excel** – PivotTables, Power Query, VLOOKUP, advanced formulas  
 
-Python for Analytics – Data cleaning, transformation, automation
+### 🐍 **Programming & Data Manipulation**
+<p align="left">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/>  
+</p>
 
-Pandas – DataFrames, grouping, merging, handling missing values
+- **Python** – Data cleaning, transformation, automation, ETL workflows  
+- **Pandas & NumPy** – DataFrames, statistical analysis, missing value handling  
+- **Matplotlib/Seaborn** – EDA visualization, charting  
+- **Jupyter Notebooks** – Reproducible analysis and documentation  
 
-NumPy – Numerical operations and vectorized calculations
+### 📈 **Business Analysis & Soft Skills**
+- Requirements Gathering & Documentation  
+- Process Improvement & Workflow Optimization  
+- Stakeholder Communication & Data Storytelling  
+- Agile Methodology & SDLC Awareness  
+- Cross-functional Collaboration & Problem-Solving  
 
-Matplotlib/Seaborn – Data visualization and EDA charts
-Additional Skills
+---
 
-Data Cleaning & Transformation
+## 📁 Featured Projects
 
-DAX, SQL Queries, Joins, CTEs
+| Project | Description | Tools |
+|---------|-------------|-------|
+| 🏥 **[Health Data Analytics Dashboard](https://github.com/sherpanuren/health-dashboard)** | Built a Power BI dashboard for 1,500+ patients, improving clinical reporting efficiency by 40%. | Power BI, DAX, SQL |
+| 🛡️ **[Insurance Claims Risk Segmentation](https://github.com/sherpanuren/insurance-claims-analysis)** | Analyzed 368K insurance claims to identify high-risk segments, reducing potential losses by 15%. | Power BI, SQL, Risk Analytics |
+| 🗺️ **[Nepal Tourism Dashboard](https://github.com/sherpanuren/nepal-tourism-dashboard)** | Interactive dashboard visualizing tourism trends (2012–2024), arrivals, and economic impact. | Power BI, Tableau, SQL |
+| 🛒 **[Customer Behavior & Sales Analysis](https://github.com/sherpanuren/sales-analysis)** | Analyzed 5K+ transactions to uncover purchasing trends and improve cross-sell potential by 20%. | Power BI, SQL, Python |
+| 📊 **[Exploratory Data Analysis – Sales Dataset](https://github.com/sherpanuren/eda-sales)** | Comprehensive EDA using Python, Pandas, and Jupyter Notebooks for business insights. | Python, Pandas, Matplotlib |
 
-Dashboard Design & KPI Development
+---
 
-Excel (Pivot Tables, Power Query, VLOOKUP, Functions)
+## 🧠 What I Bring to Your Team
 
-ETL & Basic Data Pipeline Concepts
+✅ **End-to-End Analytics** – From data extraction to insight delivery  
+✅ **Dashboard & BI Development** – Interactive, user-friendly, and actionable reports  
+✅ **Business-Data Translation** – Bridging stakeholder needs with technical solutions  
+✅ **Project Ownership** – Independent project experience with clear documentation  
+✅ **Collaboration & Communication** – Comfortable in team environments using Git & version control  
 
-What I Bring to Your Team
+---
 
-✅ Hands-on experience working with Power BI, SQL, and Python for analytics
+## 📫 Let's Connect
 
-✅ Strong understanding of data modeling, dashboard creation, and data storytelling
+<p align="left">  
+  <a href="https://linkedin.com/in/nuren-sherpa-507052276" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
+  </a>  
+  <a href="https://github.com/sherpanuren" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" alt="GitHub"/>
+  </a>  
+  <a href="mailto:sherpanuren1@gmail.com" target="blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="30" width="40" alt="Email"/>
+  </a>  
+</p>
 
-✅ Ability to extract insights from large datasets and present findings clearly
+📧 **Email:** sherpanuren1@gmail.com  
+🔗 **Portfolio:** [View my projects here](https://github.com/sherpanuren)  
 
-✅ Problem-solving mindset with an eye for accuracy and detail
+---
 
-✅ Collaboration-ready, comfortable working in team environments and version control
-
-Let's Connect
-<p align="left"> <a href="https://linkedin.com/in/nuren-sherpa-507052276" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="linkedin"/> </a> <a href="https://www.facebook.com/nuren.sherpa.2025/" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="facebook"/> </a> <a href="https://www.instagram.com/nurensherpa/" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="instagram"/> </a> </p>
-
-Email: sherpanuren1@gmail.com
-
-Available for: Data Analyst roles, BI Analyst internships, dashboard projects, and freelance analytics
-
-<div align="center"> <i> Excited to analyze, create, and deliver insights that drive decisions.</i> </div>
+<div align="center">  
+  <i>“Turning data into decisions, one dashboard at a time.”</i>  
+</div>
