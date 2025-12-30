@@ -1,4 +1,6 @@
-Hi 👋, I'm Nuren Sherpa  **Business & Data Analyst | BI Enthusiast | Dashboard Developer**  📍 Kathmandu, Nepal | 🏳️ Remote | Onsite | Hybrid
+Hi 👋, I'm Nuren Sherpa  
+**Business & Data Analyst | BI Enthusiast | Dashboard Developer**  
+📍 Kathmandu, Nepal | 🏳️ Remote | Onsite | Hybrid
 
 <div align="center">  
   <img alt="Data Analytics GIF" width="400" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">  
